@@ -856,6 +856,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/moon/proprietary/vendor/lib64/libaal_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libaal_mtk.so \
     vendor/xiaomi/moon/proprietary/vendor/lib64/libaalservice.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libaalservice.so \
     vendor/xiaomi/moon/proprietary/vendor/lib64/libabfadp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libabfadp.so \
+    vendor/xiaomi/moon/proprietary/vendor/lib64/libadpcmdec_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libadpcmdec_mtk.so \
     vendor/xiaomi/moon/proprietary/vendor/lib64/libaedv.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libaedv.so \
     vendor/xiaomi/moon/proprietary/vendor/lib64/libanc_night.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libanc_night.so \
     vendor/xiaomi/moon/proprietary/vendor/lib64/libanc_night_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libanc_night_preview.so \
@@ -976,6 +977,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/moon/proprietary/vendor/lib64/libmnl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmnl.so \
     vendor/xiaomi/moon/proprietary/vendor/lib64/libmorpho_HdrChecker.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmorpho_HdrChecker.so \
     vendor/xiaomi/moon/proprietary/vendor/lib64/libmorpho_ImageRefiner.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmorpho_ImageRefiner.so \
+    vendor/xiaomi/moon/proprietary/vendor/lib64/libmp3dec_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmp3dec_mtk.so \
     vendor/xiaomi/moon/proprietary/vendor/lib64/libmpbase.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmpbase.so \
     vendor/xiaomi/moon/proprietary/vendor/lib64/libmsnr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmsnr.so \
     vendor/xiaomi/moon/proprietary/vendor/lib64/libmtcloader.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmtcloader.so \
