@@ -928,6 +928,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/moon/proprietary/vendor/lib64/libeffecthal.base.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libeffecthal.base.so \
     vendor/xiaomi/moon/proprietary/vendor/lib64/libfeature.face.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libfeature.face.so \
     vendor/xiaomi/moon/proprietary/vendor/lib64/libfeature.stereo.provider.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libfeature.stereo.provider.so \
+    vendor/xiaomi/moon/proprietary/vendor/lib64/libfeature.vsdof.hal.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libfeature.vsdof.hal.so \
     vendor/xiaomi/moon/proprietary/vendor/lib64/libfeature_3dnr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libfeature_3dnr.so \
     vendor/xiaomi/moon/proprietary/vendor/lib64/libfeature_eis.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libfeature_eis.so \
     vendor/xiaomi/moon/proprietary/vendor/lib64/libfeature_fsc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libfeature_fsc.so \
